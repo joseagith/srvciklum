@@ -1,0 +1,76 @@
+Document ID: INS_DOC_002
+Department: Claims
+Document Type: End-to-End Workflow SOP
+Version: 2.1
+
+1. Claim Registration
+
+Customer calls or submits claim online.
+
+Capture:
+
+Policy number
+
+Vehicle details
+
+Date & time of incident
+
+Location & description
+
+Generate Claim Reference Number.
+
+2. Initial Assessment
+
+Verify policy validity
+
+Confirm coverage type (OD / TP / Comprehensive)
+
+Check prior claims history
+
+Identify potential fraud triggers
+
+3. Surveyor Assignment
+
+Assign external surveyor within 24 hours
+
+Provide:
+
+Claim reference
+
+Contact details
+
+Location of vehicle
+
+Garage information
+
+4. Survey & Damage Estimation
+
+Surveyor responsibilities:
+
+Inspect the vehicle
+
+Capture images
+
+Estimate repair cost
+
+Submit detailed survey report
+
+5. Approval & Repair Process
+
+Compare estimate with policy terms
+
+Approve repair amount
+
+Notify customer & authorized garage
+
+Final bill reconciliation
+
+6. Claim Settlement
+
+Collect final invoice
+
+Verify repairs as per surveyor report
+
+Make payment to garage or customer
+
+Close claim in system

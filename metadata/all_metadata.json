@@ -1,0 +1,85 @@
+[
+  {
+    "doc_id": "DOC_001",
+    "file_name": "INS_DOC_001_Health_Underwriting.txt",
+    "title": "",
+    "department": "Underwriting",
+    "doc_type": "Eligibility & Risk Assessment SOP",
+    "version": "1.0",
+    "effective_date": "",
+    "summary": "",
+    "keywords": [
+      "underwriting",
+      "eligibility",
+      "risk",
+      "assessment",
+      "sop"
+    ]
+  },
+  {
+    "doc_id": "DOC_002",
+    "file_name": "INS_DOC_002_Motor_Claims_Workflow.txt",
+    "title": "",
+    "department": "Claims",
+    "doc_type": "End-to-End Workflow SOP",
+    "version": "2.1",
+    "effective_date": "",
+    "summary": "",
+    "keywords": [
+      "claims",
+      "end",
+      "workflow",
+      "sop"
+    ]
+  },
+  {
+    "doc_id": "DOC_003",
+    "file_name": "INS_DOC_003_Fraud_Red_Flags.txt",
+    "title": "",
+    "department": "Fraud Control",
+    "doc_type": "Red Flag Guidelines",
+    "version": "1.0",
+    "effective_date": "",
+    "summary": "",
+    "keywords": [
+      "fraud",
+      "control",
+      "red",
+      "flag",
+      "guidelines"
+    ]
+  },
+  {
+    "doc_id": "DOC_004",
+    "file_name": "INS_DOC_004_Policy_Renewal_Lapse.txt",
+    "title": "",
+    "department": "Customer Service",
+    "doc_type": "Policy Servicing SOP",
+    "version": "3.0",
+    "effective_date": "",
+    "summary": "",
+    "keywords": [
+      "customer",
+      "service",
+      "policy",
+      "servicing",
+      "sop"
+    ]
+  },
+  {
+    "doc_id": "DOC_005",
+    "file_name": "INS_DOC_005_Life_Claims_Documents.txt",
+    "title": "",
+    "department": "Life Claims",
+    "doc_type": "Claims Documentation SOP",
+    "version": "1.4",
+    "effective_date": "",
+    "summary": "",
+    "keywords": [
+      "life",
+      "claims",
+      "documentation",
+      "sop"
+    ]
+  }
+]

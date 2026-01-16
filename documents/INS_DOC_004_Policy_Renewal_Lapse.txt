@@ -1,0 +1,44 @@
+Document ID: INS_DOC_004
+Department: Customer Service
+Document Type: Policy Servicing SOP
+Version: 3.0
+
+1. Renewal Eligibility Rules
+
+A policy is eligible for renewal when:
+
+Premium is paid before due date
+
+Grace period of 30 days applicable
+
+Renewals beyond 30 days require reinstatement approval
+
+2. Lapsed Policy Restart Process
+
+Validate reason for lapse
+
+Confirm no claims filed during lapsed period
+
+Customer must:
+
+Submit renewal form
+
+Provide self-declaration of good health
+
+For health policies:
+
+Medical underwriting may be required
+
+On approval:
+
+Issue policy with new start date
+
+Apply waiting periods as per norms
+
+3. Customer Communication
+
+Send SMS + Email reminders 15 days before due date
+
+Notify lapse after 30 days
+
+Provide reinstatement options

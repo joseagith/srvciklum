@@ -1,0 +1,47 @@
+# 
+## Full Document
+
+Document ID: INS_DOC_003
+Department: Fraud Control
+Document Type: Red Flag Guidelines
+Version: 1.0
+
+1. Purpose
+
+To identify potential fraud indicators in claims or policy applications.
+
+2. Common Fraud Red Flags
+
+Multiple claims within short period
+
+Claim shortly after policy inception
+
+Inconsistency between narrative and evidence
+
+Claimant not reachable or avoids communication
+
+Repaired parts mismatch damage description
+
+Third-party injury claims without police report
+
+3. Document Tampering Indicators
+
+Altered hospital bills
+
+Fake repair invoices
+
+Forged signatures or missing official stamps
+
+Mismatched fonts or numbering
+
+4. Investigation Escalation Rules
+
+Escalate to Fraud Control Team when:
+
+₹50,000 repair claims with inconsistencies
+
+Accident location unverified
+
+Repeated high-value claims
+
+Suspicion of staged accidents or inflated repairs

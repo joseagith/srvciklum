@@ -1,0 +1,72 @@
+[
+  {
+    "chunk_id": "DOC_001_CHUNK_001",
+    "doc_id": "DOC_001",
+    "file_name": "INS_DOC_001_Health_Underwriting.txt",
+    "chunk_file": "DOC_001_CHUNK_001.txt",
+    "title": "",
+    "section_title": "Full Document",
+    "section_index": 1,
+    "department": "Underwriting",
+    "doc_type": "Eligibility & Risk Assessment SOP",
+    "version": "1.0",
+    "effective_date": "",
+    "text": "# \n## Full Document\n\nDepartment: Underwriting\nDocument Type: Eligibility & Risk Assessment SOP\nVersion: 1.0\n\n1. Purpose\n\nTo provide standardized rules and assessment criteria for evaluating applicants applying for individual or family health insurance policies.\n\n2. Applicant Eligibility Criteria\n\nApplicant must be 18 to 65 years (entry age).\n\nFamily floater eligible dependents include:\n\nSpouse\n\nChildren aged 91 days to 25 years\n\nSenior citizen plans require separate underwriting.\n\n3. Decline / Temporary Hold Conditions\n\nApplicants must be declined or placed on hold under the following conditions:\n\nActive cancer diagnosis\n\nMajor organ transplant history\n\nUncontrolled diabetes (HbA1c > 9%)\n\nHIV positive status\n\nOngoing hospitalization\n\nRecent major surgeries (< 90 days)\n\n4. Medical Evaluation Requirements\n\nTelemedical screening for all applicants > 45 years\n\nFull medical check-up for:\n\nSmokers above age 40\n\nBMI > 32\n\nFamily history of cardiovascular disease\n\nAdditional tests may be requested based on declared conditions.\n\n5. Final Decision Rules\n\nUnderwriters shall use the following categories:\n\nStandard Accept \u2014 no loading, no exclusions\n\nAccept with Loading \u2014 increased premium due to risk\n\nAccept with Exclusions \u2014 specific conditions not covered\n\nReject \u2014 high-risk profiles based on Section 3"
+  },
+  {
+    "chunk_id": "DOC_002_CHUNK_001",
+    "doc_id": "DOC_002",
+    "file_name": "INS_DOC_002_Motor_Claims_Workflow.txt",
+    "chunk_file": "DOC_002_CHUNK_001.txt",
+    "title": "",
+    "section_title": "Full Document",
+    "section_index": 1,
+    "department": "Claims",
+    "doc_type": "End-to-End Workflow SOP",
+    "version": "2.1",
+    "effective_date": "",
+    "text": "# \n## Full Document\n\nDocument ID: INS_DOC_002\nDepartment: Claims\nDocument Type: End-to-End Workflow SOP\nVersion: 2.1\n\n1. Claim Registration\n\nCustomer calls or submits claim online.\n\nCapture:\n\nPolicy number\n\nVehicle details\n\nDate & time of incident\n\nLocation & description\n\nGenerate Claim Reference Number.\n\n2. Initial Assessment\n\nVerify policy validity\n\nConfirm coverage type (OD / TP / Comprehensive)\n\nCheck prior claims history\n\nIdentify potential fraud triggers\n\n3. Surveyor Assignment\n\nAssign external surveyor within 24 hours\n\nProvide:\n\nClaim reference\n\nContact details\n\nLocation of vehicle\n\nGarage information\n\n4. Survey & Damage Estimation\n\nSurveyor responsibilities:\n\nInspect the vehicle\n\nCapture images\n\nEstimate repair cost\n\nSubmit detailed survey report\n\n5. Approval & Repair Process\n\nCompare estimate with policy terms\n\nApprove repair amount\n\nNotify customer & authorized garage\n\nFinal bill reconciliation\n\n6. Claim Settlement\n\nCollect final invoice\n\nVerify repairs as per surveyor report\n\nMake payment to garage or customer\n\nClose claim in system"
+  },
+  {
+    "chunk_id": "DOC_003_CHUNK_001",
+    "doc_id": "DOC_003",
+    "file_name": "INS_DOC_003_Fraud_Red_Flags.txt",
+    "chunk_file": "DOC_003_CHUNK_001.txt",
+    "title": "",
+    "section_title": "Full Document",
+    "section_index": 1,
+    "department": "Fraud Control",
+    "doc_type": "Red Flag Guidelines",
+    "version": "1.0",
+    "effective_date": "",
+    "text": "# \n## Full Document\n\nDocument ID: INS_DOC_003\nDepartment: Fraud Control\nDocument Type: Red Flag Guidelines\nVersion: 1.0\n\n1. Purpose\n\nTo identify potential fraud indicators in claims or policy applications.\n\n2. Common Fraud Red Flags\n\nMultiple claims within short period\n\nClaim shortly after policy inception\n\nInconsistency between narrative and evidence\n\nClaimant not reachable or avoids communication\n\nRepaired parts mismatch damage description\n\nThird-party injury claims without police report\n\n3. Document Tampering Indicators\n\nAltered hospital bills\n\nFake repair invoices\n\nForged signatures or missing official stamps\n\nMismatched fonts or numbering\n\n4. Investigation Escalation Rules\n\nEscalate to Fraud Control Team when:\n\n\u20b950,000 repair claims with inconsistencies\n\nAccident location unverified\n\nRepeated high-value claims\n\nSuspicion of staged accidents or inflated repairs"
+  },
+  {
+    "chunk_id": "DOC_004_CHUNK_001",
+    "doc_id": "DOC_004",
+    "file_name": "INS_DOC_004_Policy_Renewal_Lapse.txt",
+    "chunk_file": "DOC_004_CHUNK_001.txt",
+    "title": "",
+    "section_title": "Full Document",
+    "section_index": 1,
+    "department": "Customer Service",
+    "doc_type": "Policy Servicing SOP",
+    "version": "3.0",
+    "effective_date": "",
+    "text": "# \n## Full Document\n\nDocument ID: INS_DOC_004\nDepartment: Customer Service\nDocument Type: Policy Servicing SOP\nVersion: 3.0\n\n1. Renewal Eligibility Rules\n\nA policy is eligible for renewal when:\n\nPremium is paid before due date\n\nGrace period of 30 days applicable\n\nRenewals beyond 30 days require reinstatement approval\n\n2. Lapsed Policy Restart Process\n\nValidate reason for lapse\n\nConfirm no claims filed during lapsed period\n\nCustomer must:\n\nSubmit renewal form\n\nProvide self-declaration of good health\n\nFor health policies:\n\nMedical underwriting may be required\n\nOn approval:\n\nIssue policy with new start date\n\nApply waiting periods as per norms\n\n3. Customer Communication\n\nSend SMS + Email reminders 15 days before due date\n\nNotify lapse after 30 days\n\nProvide reinstatement options"
+  },
+  {
+    "chunk_id": "DOC_005_CHUNK_001",
+    "doc_id": "DOC_005",
+    "file_name": "INS_DOC_005_Life_Claims_Documents.txt",
+    "chunk_file": "DOC_005_CHUNK_001.txt",
+    "title": "",
+    "section_title": "Full Document",
+    "section_index": 1,
+    "department": "Life Claims",
+    "doc_type": "Claims Documentation SOP",
+    "version": "1.4",
+    "effective_date": "",
+    "text": "# \n## Full Document\n\nDocument ID: INS_DOC_005\nDepartment: Life Claims\nDocument Type: Claims Documentation SOP\nVersion: 1.4\n\n1. Essential Documentation\n\nRequired for all life insurance claims:\n\nOriginal policy document\n\nClaim intimation form\n\nDeath certificate (government-issued)\n\nIdentity & address proof of claimant\n\n2. Natural Death Requirements\n\nHospital summary (if applicable)\n\nDoctor\u2019s certificate\n\nProof of relationship\n\n3. Accidental Death Requirements\n\nFIR copy\n\nPolice panchnama\n\nPostmortem report\n\nAccident investigation report\n\n4. Payout Process\n\nValidate documentation\n\nVerify nominee details\n\nMatch claim against policy terms\n\nApprove or escalate for investigation\n\nProcess payout within 30 working days"
+  }
+]

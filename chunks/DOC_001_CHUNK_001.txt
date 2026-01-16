@@ -1,0 +1,64 @@
+# 
+## Full Document
+
+Department: Underwriting
+Document Type: Eligibility & Risk Assessment SOP
+Version: 1.0
+
+1. Purpose
+
+To provide standardized rules and assessment criteria for evaluating applicants applying for individual or family health insurance policies.
+
+2. Applicant Eligibility Criteria
+
+Applicant must be 18 to 65 years (entry age).
+
+Family floater eligible dependents include:
+
+Spouse
+
+Children aged 91 days to 25 years
+
+Senior citizen plans require separate underwriting.
+
+3. Decline / Temporary Hold Conditions
+
+Applicants must be declined or placed on hold under the following conditions:
+
+Active cancer diagnosis
+
+Major organ transplant history
+
+Uncontrolled diabetes (HbA1c > 9%)
+
+HIV positive status
+
+Ongoing hospitalization
+
+Recent major surgeries (< 90 days)
+
+4. Medical Evaluation Requirements
+
+Telemedical screening for all applicants > 45 years
+
+Full medical check-up for:
+
+Smokers above age 40
+
+BMI > 32
+
+Family history of cardiovascular disease
+
+Additional tests may be requested based on declared conditions.
+
+5. Final Decision Rules
+
+Underwriters shall use the following categories:
+
+Standard Accept — no loading, no exclusions
+
+Accept with Loading — increased premium due to risk
+
+Accept with Exclusions — specific conditions not covered
+
+Reject — high-risk profiles based on Section 3

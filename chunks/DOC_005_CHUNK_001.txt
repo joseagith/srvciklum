@@ -1,0 +1,49 @@
+# 
+## Full Document
+
+Document ID: INS_DOC_005
+Department: Life Claims
+Document Type: Claims Documentation SOP
+Version: 1.4
+
+1. Essential Documentation
+
+Required for all life insurance claims:
+
+Original policy document
+
+Claim intimation form
+
+Death certificate (government-issued)
+
+Identity & address proof of claimant
+
+2. Natural Death Requirements
+
+Hospital summary (if applicable)
+
+Doctor’s certificate
+
+Proof of relationship
+
+3. Accidental Death Requirements
+
+FIR copy
+
+Police panchnama
+
+Postmortem report
+
+Accident investigation report
+
+4. Payout Process
+
+Validate documentation
+
+Verify nominee details
+
+Match claim against policy terms
+
+Approve or escalate for investigation
+
+Process payout within 30 working days
